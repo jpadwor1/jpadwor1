@@ -20,8 +20,7 @@ I'm a woodworking, ultra-marathon running, full-stack developing jack-of-all-tra
 
 
 ### My Favorite Project Repos
-* <a href="https://github.com/2009-fsa-cs-ashes-archers/JobMapApp">JavaScript Jobs USA</a> - Mapbox Job Search Tool
-* <a href="https://github.com/FSA-2009-Revenge-of-the-Shoppers/Grace-Shopper">YoDaddy</a> - E-Commerce with tons of Baby Yoda
-* <a href="https://github.com/KungoJung/expense-tracker-electron">These Expenses</a> - Desktop Expense Tracker
+
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpadwor1)](https://github.com/jpadwor1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpadwor1)](https://github.com/jpadwor1/github-readme-stats)
