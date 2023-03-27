@@ -22,5 +22,5 @@ I'm a woodworking, ultra-marathon running, full-stack developing jack-of-all-tra
 ### My Favorite Project Repos
 
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpadwor1)](https://github.com/jpadwor1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpadwor1)](https://github.com/jpadwor1/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpadwor1&theme=github_dark&show_icons=true)](https://github.com/jpadwor1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpadwor1&theme=github_dark&show_icons=true)](https://github.com/jpadwor1/github-readme-stats)
