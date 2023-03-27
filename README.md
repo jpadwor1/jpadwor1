@@ -1,5 +1,5 @@
 ## Hi, I'm John. 👋
-I'm a woodworking, ultra-marathon running, full-stack developing jack-of-all-trades. If you need someone to saw, sand, code, or run with, I'm your person. Just don't challenge me to a thumb war, I always win.
+I'm a woodworking, ultra-marathon running, full-stack developing jack-of-all-trades. If you need someone to saw, sand, code, or run with, I'm your person. 
 
 ### Get In Touch
 <a href="mailto:johnpadworski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
