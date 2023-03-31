@@ -13,8 +13,5 @@ I am living in SoCal and love growing with technology!
 
 
 
-### My Favorite Project Repos
-
-
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpadwor1&theme=github_dark&show_icons=true)](https://github.com/jpadwor1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpadwor1&theme=github_dark&show_icons=true)](https://github.com/jpadwor1/github-readme-stats)
