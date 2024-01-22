@@ -1,5 +1,6 @@
 
-<p align="center"><a href="https://johnpadworski.dev" target="_blank"> <img width="653" alt="Screenshot 2024-01-22 142059" src="https://github.com/jpadwor1/jpadwor1/assets/128070765/3bbde733-4ee7-4139-9fee-cf7f3acbe0a0"> </a></p>
+<p align="center"><a href="https://johnpadworski.dev" target="_blank"> <img width="863" alt="Hi I am John" src="https://github.com/jpadwor1/jpadwor1/assets/128070765/83bdaae5-44e3-48f0-8f37-96b132f92953"> </a></p>
+
 
 </br>
 **About me**
