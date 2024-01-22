@@ -4,7 +4,6 @@ I am living in SoCal and love growing with technology!
 ### Get In Touch
 <a href="mailto:johnpadworski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/johnpadworski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.youtube.com/channel/UCJBqULOwFqLcq_1uDhOc7xw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
 <a href="https://johnpadworski.dev" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
 ### My Tool Belt
