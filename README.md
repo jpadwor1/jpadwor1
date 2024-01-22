@@ -1,12 +1,11 @@
-## Hi, I'm John. 👋
-I am living in SoCal and love growing with technology! 
+
+<a href="https://johnpadworski.dev" target="_blank"> <img width="653" alt="Screenshot 2024-01-22 142059" src="https://github.com/jpadwor1/jpadwor1/assets/128070765/3bbde733-4ee7-4139-9fee-cf7f3acbe0a0"> </a>
 
 ### Get In Touch
 <a href="mailto:johnpadworski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/johnpadworski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://johnpadworski.dev" target="_blank"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
-### My Tool Belt
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  ...and many others
+
 
 
